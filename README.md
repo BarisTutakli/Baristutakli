@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **c#, OOP, .net, ORM, SQL,Web API, JavaScript,HTML, CSS **
 
-- 📫 How to reach me **baristutakli@hotmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
