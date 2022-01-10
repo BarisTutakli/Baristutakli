@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://baristutakli.github.io/](https://baristutakli.github.io/)
 
-- 💬 Ask me about **c#, OOP, .net, ORM, SQL,Web API, JavaScript,HTML, CSS **
+- 💬 Ask me about <b> C#, OOP, .net, ORM, SQL,Web API, JavaScript,HTML, CSS </b>
 
 
 ### Blogs posts
