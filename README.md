@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baristutakli&label=Profile%20views&color=0e75b6&style=flat" alt="baristutakli" /> </p>
 
 <p align="left" style="text-align: justify;">
- I graduated from Galatasaray University, Department of Mathematics. Currently, i take web and mobile software developer training courses funded by the Turkish government. Additionally, I’m following courses on Patika.dev, coderbyte and Kodlama.io. My main motivation is to produce software solutions to make easier people's life. While continuing the courses i mentioned above, i also give design thinking courses as a volunteer of the association <b>Habitat</b>.</p>
+As a software developer, I’m also a content writer because sharing our knowledge is as important as knowledge in the 21st century. My main motivation is to produce software solutions to improve people's lives. I give design thinking courses as a volunteer of the association <b>Habitat<b>.
 
 
 - 💬 Ask me about <b>C#, .Net, MVC, WebAPI, ORM, SQL, Postgresql, Mysql, Entity Framework, RabittMq,… </b>
