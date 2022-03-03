@@ -8,17 +8,22 @@
  I graduated from Galatasaray University, Department of Mathematics. Currently, i take web and mobile software developer training courses funded by the Turkish government. Additionally, I’m following courses on Patika.dev, coderbyte and Kodlama.io. My main motivation is to produce software solutions to make easier people's life. While continuing the courses i mentioned above, i also give design thinking courses as a volunteer of the association <b>Habitat</b>.</p>
 
 
-- 🌱 I’m currently learning **.Net Core, Web API, CSS, JavaScript, Design Patterns**
+- 💬 Ask me about <b>C#, .Net, MVC, WebAPI, ORM, SQL, Postgresql, Mysql, Entity Framework, RabittMq,… </b>
 
-- 👨‍💻 All of my projects are available at [https://github.com/baristutakli?tab=repositories](https://github.com/baristutakli?tab=repositories)
 
-- 💬 Ask me about <b> C#, OOP, .Net, ORM, SQL, Web API, JavaScript, HTML, CSS </b>
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/baristutakli?tab=repositories)
 
 
 ### Blogs posts
 Do you keep a diary? This question came to my mind about two months ago. Then i started writing a programming diary. So, i would like to share my posts with you.
-📝 I regularly write articles on [https://baristutakli.github.io/](https://baristutakli.github.io/)
-📝 I regularly write articles on [https://baristutakli.medium.com/](https://baristutakli.medium.com/)
+📝 I regularly write articles on [baristutakli.medium.com](https://baristutakli.medium.com)
+📝 I regularly write articles on [baristutakli.github.io](https://baristutakli.github.io)
+
+
+### Projects
+* [Team Works](https://github.com/baristutakli/Developer_Teamwork)
+* [.Net Bootcamp Projects](https://github.com/baristutakli/Patika-dev-Unlu-Co-Net-Bootcamp-Projects)
+* [Onion Architecture Blog Project](https://github.com/baristutakli/BarisTutakli.Blog)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
