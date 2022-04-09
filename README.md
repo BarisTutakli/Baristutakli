@@ -2,6 +2,8 @@
 <h3 align="center">Passionate about programming and and new technologies</h3>
 <h5 align="center">Make it work, make it right, make it fast</h5>
 
+<h1 align="center">Work at DFDS</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baristutakli&label=Profile%20views&color=0e75b6&style=flat" alt="baristutakli" /> </p>
 
 <p align="left" style="text-align: justify;">
