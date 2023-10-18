@@ -10,21 +10,22 @@
 As a software developer, I’m also a content writer because sharing our knowledge is as important as knowledge in the 21st century. My main motivation is to produce software solutions to improve people's lives. I give design thinking courses as a volunteer of the association <b>Habitat<b>.
 
 
-- 💬 Excited to talk about topics such as <b>C#, .Net, MVC, WebAPI, ORM, SQL, Postgresql, Mysql, Entity Framework, RabittMq,… </b>
+- 💬 Excited to talk about topics such as <b>C#, .Net, MVC, WebAPI, ORM, SQL, Postgresql, Mysql, Entity Framework, RabittMq, Kafka, Okta, Azure AD, Azure AD B2C… </b>
 
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/baristutakli?tab=repositories)
 
 
 ## Medium articles
-  
+* [Distributed Systems- NServiceBus-Couplings- Part1](https://medium.com/@baristutakli/distributed-systems-nservicebus-couplings-part1-43db981edfa2)
+* [Design Patterns + Containerize .NET 6 API + Docker Networking](https://medium.com/dfds-development-center-istanbul/design-patterns-containerize-net-6-api-docker-networking-2ada7b2acd09)
 * [A Quick Introduction to Docker](https://medium.com/dfds-development-center-istanbul/docker-100fdbc8ec65)
 * [Stay up to date on c# features](https://baristutakli.medium.com/stay-up-to-date-on-c-features-586d319f9106)
 * [Custom Mapper](https://medium.com/dfds-development-center-istanbul/custom-mapper-7b1e12a31214)
 * [Fluent Interface(Method Chaining)](https://baristutakli.medium.com/fluent-interface-method-chaining-13dc3b6a81ff)
 * [C# Delegates](https://baristutakli.medium.com/c-delegates-fa9f2f5b797c)
 
-Do you keep a diary? This question came to my mind about two months ago. Then i started writing a programming diary. So, i would like to share my posts with you.
+Do you keep a diary? In the past, this question came to my mind about years. Then i started writing a programming diary during a training. So, i would like to share my posts with you.
   
 📝 I wrote articles on the following blog while taking programming courses [baristutakli.github.io](https://baristutakli.github.io)
 
